@@ -136,7 +136,7 @@ function MainContent() {
                 value={jsonInput}
                 onChange={handleInputChange}
                 placeholder="Escribe tu JSON aquí..."
-                rows={10}
+                rows={20}
                 style={{
                   fontFamily: "monospace",
                   overflowY: "auto",
