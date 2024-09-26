@@ -4,7 +4,7 @@ import MainContent from "./components/layout/MainContent";
 
 function App() {
   return (
-    <div className="dark:bg-black flex flex-col min-h-screen">
+    <div className="dark:bg-black flex flex-col min-h-screen bg-gray-100">
       <Header />
       <MainContent />
       <Footer />
